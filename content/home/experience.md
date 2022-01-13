@@ -85,7 +85,7 @@ experience:
     company_logo: oxford
     location: 
     date_start: '2007-09-01'
-    date_end: '2011-06-31'
+    date_end: '2011-06-30'
       
 
 design:
