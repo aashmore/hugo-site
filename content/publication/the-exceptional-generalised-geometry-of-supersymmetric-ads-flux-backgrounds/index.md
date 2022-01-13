@@ -1,7 +1,7 @@
 ---
 title: The exceptional generalised geometry of supersymmetric AdS flux backgrounds
 publication_types:
-  - "0"
+  - "2"
 authors:
   - AA
   - Michela Petrini
