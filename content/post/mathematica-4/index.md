@@ -93,3 +93,52 @@ p = RandomComplex[{}, {40, 50, 30}];
 m.Transpose[p, {3, 2, 1}] // Dimensions
 (* {10,20,50,40} *)
 ```
+
+The key to remember how this form of Transpose works is that *you specify where the indices end up*.
+
+## Flatten
+
+We can also shuffle indices with the function `Flatten`. This function also has other uses -- such as letting us contract more than one index at a time -- but we’ll focus on using it to transpose for the moment.
+
+The key with `Flatten` is that *you specify where the indices came from*. For example, compare
+
+```mathematica
+m = RandomComplex[{}, {10, 20, 30, 40}];
+
+Transpose[m, {1, 4, 2, 3}] // Dimensions
+(* {10,30,40,20} *)
+
+Flatten[m, {{1}, {4}, {2}, {3}}] // Dimensions
+(* {10,40,20,30} *)
+```
+
+Using `Transpose` with the argument `{1, 4, 2, 3}`, we leave the 1st index unchanged, send the 2nd index to 4th position, send the 3rd index to 2nd position, and send the 4th index to 3rd position. Using `Flatten` with the argument `{{1}, {4}, {2}, {3}}`, we leave the 1st index unchanged, set the 2nd index of the result to be the 4th index of the original tensor, set the 3rd index of the result to be the 2nd index of the original tensor, and finally set the 4th index of the result to be the 3rd index of the original tensor. These operations are not the same! And the difference is whether you are thinking about *where to send the indices to* or *where the indices came from*.
+
+If we want the same result from both, we would use
+
+```mathematica
+m = RandomComplex[{}, {10, 20, 30, 40}];
+
+Transpose[m, {1, 4, 2, 3}] // Dimensions
+(* {10,30,40,20} *)
+
+Flatten[m, {{1}, {3}, {4}, {2}}] // Dimensions
+(* {10,40,20,30} *)
+
+Transpose[m, {1, 4, 2, 3}] == Flatten[m, {{1}, {3}, {4}, {2}}]
+(* True *)
+```
+
+Note that if you just need to transpose a tensor, `Tranpose` is often faster than `Flatten`. For example, increasing the dimensions of $m$ somewhat:
+
+```mathematica
+m = RandomComplex[{}, {10, 200, 300, 400}];
+
+Transpose[m, {1, 4, 2, 3}] // Dimensions // RepeatedTiming
+(* {0.60360695, {10,300,400,200}} *)
+
+Flatten[m, {{1}, {3}, {4}, {2}}] // Dimensions // RepeatedTiming
+(* {4.8638016, {10,300,400,200}} *)
+```
+
+`Flatten` is 8 times slower than `Tranpose` in this case! If you have to repeat this operation many thousands of times, this could become a huge bottleneck!
