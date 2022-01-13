@@ -34,7 +34,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I’m a postdoctoral researcher in theoretical physics. My work focuses on the geometry of string compactifications. At the moment, I’m a Marie Skłodowska-Curie fellow at the University of Chicago, heading to Sorbonne Université in 2022.
+I’m a postdoctoral researcher in theoretical physics. My work focuses on the geometry of string compactifications. At the moment, I’m a Marie Skłodowska-Curie fellow at the University of Chicago, heading to Sorbonne Université in 2023.
 
 You’ll find more about me at the links above and a few posts on physics, mathematics, Mathematica, and maybe even cooking.
 
