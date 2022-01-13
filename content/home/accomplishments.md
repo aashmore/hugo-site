@@ -39,14 +39,14 @@ item:
   organization_url: https://www.edx.org
   title: Blockchain Fundamentals
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- certificate_url: https://www.udemy.com/certificate/UC-8A4LY3IN/
+  date_end: "2018-12-01"
+  date_start: ""
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  organization: Udemy
+  organization_url: https://www.udemy.com
+  title: 'Python for Financial Analysis and Algorithmic Trading'
+  url: "https://www.udemy.com/course/python-for-finance-and-trading-algorithms/"
 
 design:
   columns: '2' 
