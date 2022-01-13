@@ -2,7 +2,7 @@
 abstract: Little is known about explicit metrics on Calabi-Yau manifolds, leaving us unable, for example, to compute particle masses or couplings in string models. I will review recent progress on using numerical methods to compute these metrics and the spectrum of the Laplacian on these spaces. I will finish with an example of what one can do with this new "data", namely probing the swampland distance conjecture in complex structure moduli space.
 slides: ""
 url_pdf: ""
-summary:
+summary: Plenary talk at String Phenomenology 2021
 title: Numerical Metrics and the Swampland Distance Conjecture
 location: Virtual
 date: 2021-07-15
