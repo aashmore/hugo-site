@@ -13,21 +13,13 @@ url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: Calabi-Yau Metrics, CFTs and Random Matrices
 location: Virtual
-date: 2021-12-16T14:00:00.000Z
-date_end: 2021-12-16T14:00:00.000Z
-all_day: true
+date: 2021-12-16
 event: string_data_2021
 event_url: https://indico.cern.ch/event/1065458/
 featured: false
 authors: []
 url_video: ""
 url_slides: ""
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
 links: []
 publishDate: 2022-01-13T17:45:24.242Z
 tags: []
