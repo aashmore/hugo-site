@@ -2,7 +2,7 @@
 title: "Exceptional Calabi-Yau spaces: the geometry of $\\mathcal{N}=2$
   backgrounds with flux"
 publication_types:
-  - "0"
+  - "2"
 authors:
   - AA
   - Daniel Waldram
