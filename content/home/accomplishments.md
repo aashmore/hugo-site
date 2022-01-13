@@ -31,22 +31,6 @@ item:
   organization_url: https://www.coursera.org
   title: Neural Networks and Deep Learning
   url: ""
-- certificate_url: https://www.udemy.com/certificate/UC-YDCMLU1Z/
-  date_end: "2017-09-30"
-  date_start: ""
-  description: ""
-  organization: Udemy
-  organization_url: https://www.udemy.com
-  title: Python for Data Science and Machine Learning Bootcamp
-  url: https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
-- certificate_url: https://www.udemy.com/certificate/UC-8A4LY3IN/
-  date_end: ""
-  date_start: "2018"
-  description: ""
-  organization: Udemy
-  organization_url: https://www.udemy.com
-  title: Python for Financial Analysis and Algorithmic Trading
-  url: "https://www.udemy.com/course/python-for-finance-and-trading-algorithms/"
 
 design:
   columns: '2' 
