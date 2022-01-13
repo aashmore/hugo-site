@@ -18,7 +18,7 @@ image:
   placement: 2
   preview_only: false
 ---
-## Overview
+## Dot products
 
 The bulk of the numerical calculations that I need are basically linear algebra -- matrix-matrix, vector-matrix and more exotic multiplications. All of the entries in these tensors are “machine precision”, which roughly translates to a C++ double. Mathematica can store these numbers as “packed arrays” -- working with machine precision numbers rather than “exact” quantities greatly speeds up calculations (if they are written in the right way).
 
