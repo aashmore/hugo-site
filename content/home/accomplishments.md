@@ -32,32 +32,32 @@ item:
   title: Natural Language Processing in TensorFlow
   url: "https://www.coursera.org/learn/natural-language-processing-tensorflow"
   
-- certificate_url: https://www.coursera.org/account/accomplishments/certificate/CLHT3TSYV3G5
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/KPDN8F77SKF7
   date_end: ""
-  date_start: "2020-05-01"
+  date_start: "2020-04-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Natural Language Processing in TensorFlow
-  url: "https://www.coursera.org/learn/natural-language-processing-tensorflow"
+  title: Convolutional Neural Networks in TensorFlow
+  url: "https://www.coursera.org/learn/convolutional-neural-networks-tensorflow"
   
-- certificate_url: https://www.coursera.org/account/accomplishments/certificate/CLHT3TSYV3G5
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/5NZ47N9NXFFD
   date_end: ""
-  date_start: "2020-05-01"
+  date_start: "2020-03-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Natural Language Processing in TensorFlow
-  url: "https://www.coursera.org/learn/natural-language-processing-tensorflow"
+  title: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+  url: "https://www.coursera.org/learn/introduction-tensorflow"
   
-- certificate_url: https://www.coursera.org/account/accomplishments/certificate/CLHT3TSYV3G5
+- certificate_url: https://www.udemy.com/certificate/UC-8A4LY3IN/
   date_end: ""
-  date_start: "2020-05-01"
+  date_start: "2018-01-12"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Natural Language Processing in TensorFlow
-  url: "https://www.coursera.org/learn/natural-language-processing-tensorflow"
+  organization: Udemy
+  organization_url: https://www.udemy.com
+  title: Python for Financial Analysis and Algorithmic Trading
+  url: "https://www.udemy.com/course/python-for-finance-and-trading-algorithms/"
   
 - certificate_url: https://www.udemy.com/certificate/UC-YDCMLU1Z/
   date_end: ""
