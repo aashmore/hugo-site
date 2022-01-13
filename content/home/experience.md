@@ -46,6 +46,22 @@ experience:
     location: 
     date_start: '2020-09-01'
     date_end: '2022-08-31'
+    
+   - title: Postdoctoral Research Fellow
+    company: University of Pennsylvania
+    company_url: ''
+    company_logo: 
+    location: 
+    date_start: '2019-09-01'
+    date_end: '2020-08-31'
+    
+   - title: Junior Research Fellow
+    company: University of Oxford
+    company_url: ''
+    company_logo: 
+    location: 
+    date_start: '2016-09-01'
+    date_end: '2019-08-31'
       
 
 design:
