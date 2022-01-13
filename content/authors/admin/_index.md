@@ -42,4 +42,4 @@ I grew up in the seaside town of Blackpool in the UK and did my undergraduate de
 
 My work is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 838776.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}. --->
