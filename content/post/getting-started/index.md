@@ -11,14 +11,11 @@ draft: true
 featured: false
 authors:
   - admin
-  - 吳恩達
 lastmod: 2020-12-13T00:00:00Z
 tags:
   - Academic
-  - 开源
 categories:
   - Demo
-  - 教程
 projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
@@ -28,6 +25,8 @@ image:
 ---
 
 ## Overview
+
+This should be inline latex $\int_x$. This should be displayed latex $$x^3=y.$$
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
