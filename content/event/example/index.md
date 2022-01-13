@@ -19,7 +19,7 @@ event_url: https://indico.cern.ch/event/1065458/
 featured: false
 authors: []
 url_video: "https://www.youtube.com/watch?v=59aaoDUOd1Q"
-url_slides:
+url_slides: "uploads/string-data-2021.pdf"
 links: []
 publishDate: 2022-01-13T17:45:24.242Z
 tags: []
