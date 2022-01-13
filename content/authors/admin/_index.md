@@ -19,7 +19,7 @@ organizations:
     url: https://kctp.uchicago.edu
   - name: Sorbonne Université
     url: https://www.lpthe.jussieu.fr/spip/?lang=en
-education:
+<!-- education:
   courses:
     - course: PhD in Theoretical Physics
       institution: Imperial College London
@@ -29,7 +29,7 @@ education:
       year: 2012
     - course: MPhys in Physics
       institution: University of Oxford
-      year: 2011
+      year: 2011 -->
 email: ""
 superuser: true
 highlight_name: true
