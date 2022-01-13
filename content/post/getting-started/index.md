@@ -1,90 +1,28 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
-date: 2020-12-13T00:00:00Z
-summary: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
+title: Mathematica tips for numerical linear algebra (1)
+subtitle: ""
+date: 2020-12-02T00:00:00.000Z
+summary: ""
 draft: false
 featured: false
 authors:
   - admin
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - Academic
 categories:
   - Demo
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption: ""
   focal_point: ""
   placement: 2
   preview_only: false
 ---
-
 ## Overview
 
-This should be inline latex $\int_x$. This should be displayed latex $$x^3=y.$$
+Calabi-Yau manifolds are special as they are Kähler manifolds which admit Ricci-flat metrics. As of the end of 2020, there are still no complete analytic expressions for such metrics on compact manifolds, other than in the somewhat trivial cases of tori. Instead, the best we can do are approximate numerical metrics. I became interested in this a couple of years ago when trying to learn some of the machine-learning techniques that are all the rage at the moment. But before I could I apply all this fancy new technology, I first needed some data to work with. And so I found myself needing to understand how to generate these numerical metrics.
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+Previous work on these numerical metrics had used C++. Unfortunately, my experience with C++ is limited to a “Teach Yourself C++ in 24 Hours” book and some bad memories of pointers in undergraduate computing labs. Since I didn’t want to reinvent the wheel, I decided I’d try to implement the numerical metrics using Mathematica instead. I figured this would make the code much easier to handle and it would be closer to the kind of language (tensors and so on) that I would use if I were doing a calculation with pen and paper.
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
-
-## Get Started
-
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
-
-## Crowd-funded open-source software
-
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/plans/) awesome rewards and extra features 🦄✨**
-
-## Ecosystem
-
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
-
-## Features
-
-- **Page builder** - Create *anything* with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
+And so here we are almost two years later. I did manage to do what I wanted using only Mathematica. It took a few late nights of scouring the Wolfram documentation and copious amounts of help from StackExchange, but I think it really was easier than keeping track of hundreds of .cc and .h files (and trying to decipher completely cryptic compiler errors). Along the way, I learned a few neat tricks and tips for working with numerical calculations in Mathematica that I figure might be of use to someone else, and so I’m going to lay them out in the next few posts for the interested reader.
