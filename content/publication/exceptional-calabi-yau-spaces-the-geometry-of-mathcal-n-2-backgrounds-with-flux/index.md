@@ -4,8 +4,8 @@ title: "Exceptional Calabi-Yau spaces: the geometry of $\\mathcal{N}=2$
 publication_types:
   - "0"
 authors:
-  - Ashmore
-  - Anthony
+  - AA
+  - Daniel Waldram
 doi: 10.1002/prop.201600109
 publication: Fortsch.Phys. 65 (2017) 1, 1600109
 draft: false
