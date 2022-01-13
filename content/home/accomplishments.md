@@ -31,6 +31,42 @@ item:
   organization_url: https://www.coursera.org
   title: Natural Language Processing in TensorFlow
   url: "https://www.coursera.org/learn/natural-language-processing-tensorflow"
+  
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/CLHT3TSYV3G5
+  date_end: ""
+  date_start: "2020-05-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Natural Language Processing in TensorFlow
+  url: "https://www.coursera.org/learn/natural-language-processing-tensorflow"
+  
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/CLHT3TSYV3G5
+  date_end: ""
+  date_start: "2020-05-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Natural Language Processing in TensorFlow
+  url: "https://www.coursera.org/learn/natural-language-processing-tensorflow"
+  
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/CLHT3TSYV3G5
+  date_end: ""
+  date_start: "2020-05-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Natural Language Processing in TensorFlow
+  url: "https://www.coursera.org/learn/natural-language-processing-tensorflow"
+  
+- certificate_url: https://www.udemy.com/certificate/UC-YDCMLU1Z/
+  date_end: ""
+  date_start: "2017-09-30"
+  description: ""
+  organization: Udemy
+  organization_url: https://www.udemy.com
+  title: Python for Data Science and Machine Learning Bootcamp
+  url: "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/"
 
 design:
   columns: '2' 
