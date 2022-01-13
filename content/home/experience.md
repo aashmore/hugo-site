@@ -26,7 +26,7 @@ experience:
   - title: Marie Skłodowska-Curie Fellow
     company: Sorbonne Universite
     company_url: ''
-    company_logo: 
+    company_logo: sorbonne
     location: 
     date_start: '2023-09-01'
     date_end: '2024-08-31'
@@ -34,7 +34,7 @@ experience:
   - title: Kadanoff Center Fellow
     company: University of Chicago
     company_url: ''
-    company_logo: 
+    company_logo: uchicago
     location: 
     date_start: '2022-09-01'
     date_end: '2023-08-31'
@@ -42,7 +42,7 @@ experience:
   - title: Marie Skłodowska-Curie Fellow
     company: University of Chicago
     company_url: ''
-    company_logo: 
+    company_logo: uchicago
     location: 
     date_start: '2020-09-01'
     date_end: '2022-08-31'
@@ -50,7 +50,7 @@ experience:
   - title: Postdoctoral Research Fellow
     company: University of Pennsylvania
     company_url: ''
-    company_logo: 
+    company_logo: upenn
     location: 
     date_start: '2019-09-01'
     date_end: '2020-08-31'
@@ -58,7 +58,7 @@ experience:
   - title: Junior Research Fellow
     company: University of Oxford
     company_url: ''
-    company_logo: 
+    company_logo: oxford
     location: 
     date_start: '2016-09-01'
     date_end: '2019-08-31'
