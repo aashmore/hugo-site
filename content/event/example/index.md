@@ -1,19 +1,19 @@
 ---
-title: Example Talk
+title: Calabi-Yau Metrics, CFTs and Random Matrices
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: string_data_2021
+event_url: https://indico.cern.ch/event/1065458/
 
-location: Wowchemy HQ
-address:
+location: Virtual
+<!---address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
   postcode: '94305'
-  country: United States
+  country: United States --->
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+# summary: An example talk using Wowchemy's Markdown slides feature.
+abstract: "Calabi-Yau manifolds have played a key role in both mathematics and physics, and are particularly important for deriving realistic models of particle physics from string theory. Without the explicit metrics on these spaces, we have resorted to numerical methods, and now have a variety of techniques to find approximate metrics. I will present recent work on what one can do with these numerical metrics, focusing on the "data" of the spectrum of the Laplacian. Computing this for many different points in complex structure moduli space, we will see that the spectrum displays random matrix statistics, suggesting that certain 2d SCFTs are chaotic."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
