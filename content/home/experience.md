@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Experience and Education
 subtitle:
 
 # Date format for experience
@@ -62,6 +62,30 @@ experience:
     location: 
     date_start: '2016-09-01'
     date_end: '2019-08-31'
+    
+  - title: PhD, Theoretical Physics
+    company: Imperial College London
+    company_url: ''
+    company_logo: imperial
+    location: 
+    date_start: '2012-09-01'
+    date_end: '2016-08-31'
+    
+  - title: MA, Physics
+    company: Princeton University
+    company_url: ''
+    company_logo: princeton
+    location: 
+    date_start: '2011-09-01'
+    date_end: '2012-08-31'
+    
+  - title: MPhys, Physics
+    company: University of Oxford
+    company_url: ''
+    company_logo: oxford
+    location: 
+    date_start: '2007-09-01'
+    date_end: '2011-06-31'
       
 
 design:
