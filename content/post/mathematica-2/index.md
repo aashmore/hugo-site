@@ -24,7 +24,7 @@ The bulk of the numerical calculations that I need are basically linear algebra 
 
 Let’s start with a simple example where we want to take the dot product of two vectors $u$ and $v$. In index notation this is simply $u \cdot v =u_a v_a$, so we can think of the dot product as simply multiplying and then summing the individual entries of the vectors. Mathematica has many ways to carry out such a simple calculation, but picking the right way now will make sure more complicated calculations don’t take all weekend!
 
-```mathematica {linenos=table}
+```mathematica
 l = 10; (* size of vectors *)
 u = RandomComplex[{}, {l}];
 v = RandomComplex[{}, {l}];
