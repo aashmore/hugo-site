@@ -10,7 +10,7 @@ abstract: Calabi-Yau manifolds have played a key role in both mathematics and
   suggesting that certain 2d SCFTs are chaotic.
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary:
 title: Calabi-Yau Metrics, CFTs and Random Matrices
 location: Virtual
 date: 2021-12-16
@@ -18,8 +18,8 @@ event: string_data_2021
 event_url: https://indico.cern.ch/event/1065458/
 featured: false
 authors: []
-url_video: ""
-url_slides: ""
+url_video: "https://www.youtube.com/watch?v=59aaoDUOd1Q"
+url_slides: [link](/string-data-2021.pdf)
 links: []
 publishDate: 2022-01-13T17:45:24.242Z
 tags: []
