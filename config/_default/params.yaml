@@ -20,12 +20,12 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: ashmore@uchicago.edu 
-#phone: 
+email: ashmore@uchicago.edu
+#phone:
 #address:
-  #street: 
- # city: 
-  #region: 
+  #street:
+ # city:
+  #region:
   #postcode: '94305'
  # country: United States
  # country_code: US
@@ -76,7 +76,7 @@ address_format: en-us
 
 highlight: true
 highlight_languages:
-  - Mathematica
+  - mathematica
 math: true
 diagram: false
 privacy_pack: false
