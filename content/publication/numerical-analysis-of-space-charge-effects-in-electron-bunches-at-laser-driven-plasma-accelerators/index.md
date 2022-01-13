@@ -11,7 +11,7 @@ abstract: Laser-driven Plasma Accelerators (LPA) have successfully generated
   the beam dynamics and has to be taken into account in the application of such
   beams.
 slides: ""
-url_pdf: "https://arxiv.org/pdf/1008.4823.pdf"
+url_pdf: ""
 publication_types:
   - "2"
 authors:
