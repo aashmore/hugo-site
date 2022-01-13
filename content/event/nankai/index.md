@@ -3,7 +3,7 @@ abstract: Calabi-Yau manifolds have played a key role in both mathematics and ph
 slides: ""
 url_pdf: ""
 summary: Plenary talk at Nankai Symposium on Mathematical Dialogues
-title: Calabi-Yau Metrics, CFTs and Random Matrices
+title: Calabi-Yau Metrics, CFTs, and Random Matrices
 location: Virtual
 date: 2021-08-12
 event: Nankai Symposium on Mathematical Dialogues

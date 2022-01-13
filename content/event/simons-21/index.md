@@ -1,9 +1,9 @@
 ---
-abstract: Discussion session on numerical and geometric methods for Ricci-flat metrics and flows.
+abstract: Discussion session for Simons Collaboration on Special Holonomy in Geometry, Analysis, and Physics
 slides: ""
 url_pdf: ""
 summary: Discussion session for Simons Collaboration on Special Holonomy in Geometry, Analysis, and Physics
-title: Numerical Metrics and the Swampland Distance Conjecture
+title: Discussion session on numerical and geometric methods for Ricci-flat metrics and flows.
 location: Virtual
 date: 2021-05-25
 event: Numerical and Geometric Methods for Ricci-flat Metrics and Flows
