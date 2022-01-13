@@ -17,7 +17,7 @@ social:
 organizations:
   - name: University of Chicago
     url: https://kctp.uchicago.edu
-  - name: Sorbonne Universite
+  - name: Sorbonne Université
     url: https://www.lpthe.jussieu.fr/spip/?lang=en
 education:
   courses:
