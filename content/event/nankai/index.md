@@ -2,7 +2,7 @@
 abstract: Calabi-Yau manifolds have played a key role in both mathematics and physics, and are particularly important for deriving realistic models of particle physics from string theory. Unfortunately, very little is known about the explicit metrics on these spaces, leaving us unable, for example, to compute particle masses or couplings in these models. I will review recent progress in this direction on using numerical approximations to compute the spectrum of the $(p,q)$-form Laplacian on these spaces. I will finish with an example of what one can do with this new "data", giving an interesting link between Calabi-Yau metrics and random matrix theory.
 slides: ""
 url_pdf: ""
-summary:
+summary: Plenary talk at string_data_2021
 title: Calabi-Yau Metrics, CFTs and Random Matrices
 location: Virtual
 date: 2021-08-12
