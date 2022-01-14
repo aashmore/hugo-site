@@ -13,6 +13,12 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=XwF3jY4AAAAJ
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/anthony-ashmore-91678175
+  #- icon: github
+  #  icon_pack: fab
+  #  link: https://github.com/myprofile
 organizations:
   - name: University of Chicago
     url: https://kctp.uchicago.edu
