@@ -1,8 +1,7 @@
 ---
 title: Anthony Ashmore
 role: Postdoctoral Researcher in Theoretical Physics
-bio: My research interests include geometrical and computational approaches to
-  string theory and supergravity.
+bio: #
 interests:
   - Generalised geometry
   - Computational geometry
