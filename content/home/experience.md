@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 49
 
 title: Experience and Education
 subtitle:
@@ -27,66 +27,66 @@ experience:
     company: Sorbonne Universite
     company_url: ''
     company_logo: sorbonne
-    location: 
+    location:
     date_start: '2023-09-01'
     date_end: '2024-08-31'
-    
+
   - title: Kadanoff Center Fellow
     company: University of Chicago
     company_url: ''
     company_logo: uchicago
-    location: 
+    location:
     date_start: '2022-09-01'
     date_end: '2023-08-31'
-    
+
   - title: Marie Skłodowska-Curie Fellow
     company: University of Chicago
     company_url: ''
     company_logo: uchicago
-    location: 
+    location:
     date_start: '2020-09-01'
     date_end: '2022-08-31'
-    
+
   - title: Postdoctoral Research Fellow
     company: University of Pennsylvania
     company_url: ''
     company_logo: upenn
-    location: 
+    location:
     date_start: '2019-09-01'
     date_end: '2020-08-31'
-    
+
   - title: Junior Research Fellow
     company: University of Oxford
     company_url: ''
     company_logo: oxford
-    location: 
+    location:
     date_start: '2016-09-01'
     date_end: '2019-08-31'
-    
+
   - title: PhD, Theoretical Physics
     company: Imperial College London
     company_url: ''
     company_logo: imperial
-    location: 
+    location:
     date_start: '2012-09-01'
     date_end: '2016-08-31'
-    
+
   - title: MA, Physics
     company: Princeton University
     company_url: ''
     company_logo: princeton
-    location: 
+    location:
     date_start: '2011-09-01'
     date_end: '2012-08-31'
-    
+
   - title: MPhys, Physics
     company: University of Oxford
     company_url: ''
     company_logo: oxford
-    location: 
+    location:
     date_start: '2007-09-01'
     date_end: '2011-06-30'
-      
+
 
 design:
   columns: '2'
