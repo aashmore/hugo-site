@@ -5,7 +5,7 @@ abstract: Calabi-Yau spaces provide well-understood examples of supersymmetric v
 slides: ""
 url_pdf: ""
 summary: String Theory Seminar, University of Oxford
-title: Generalising Calabi-Yau for generic flux backgrounds
+title: Oxford - Generalising Calabi-Yau for generic flux backgrounds
 location: University of Oxford
 date: 2015-10-26
 event: String Theory Seminar

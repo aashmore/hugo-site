@@ -3,7 +3,7 @@ abstract: Discussion session for Simons Collaboration on Special Holonomy in Geo
 slides: ""
 url_pdf: ""
 summary: Discussion session for Simons Collaboration on Special Holonomy in Geometry, Analysis, and Physics
-title: Discussion session on numerical and geometric methods for Ricci-flat metrics and flows.
+title: Simons - Discussion session on numerical and geometric methods for Ricci-flat metrics and flows.
 location: Virtual
 date: 2021-05-25
 event: Numerical and Geometric Methods for Ricci-flat Metrics and Flows

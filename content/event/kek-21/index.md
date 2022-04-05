@@ -3,7 +3,7 @@ abstract: Calabi-Yau manifolds have played a role in advances in both mathematic
 slides: ""
 url_pdf: ""
 summary: KEK Theory Seminar
-title: Calabi-Yau metrics, machine learning, and the spectrum of the Laplace operator
+title: KEK - Calabi-Yau metrics, machine learning, and the spectrum of the Laplace operator
 location: Virtual
 date: 2021-02-25
 event: KEK Theory Seminar

@@ -3,7 +3,7 @@ abstract: Little is known about explicit metrics on Calabi-Yau manifolds, leavin
 slides: ""
 url_pdf: ""
 summary: Plenary talk at String Phenomenology 2021
-title: Numerical Metrics and the Swampland Distance Conjecture
+title: String Pheno - Numerical Metrics and the Swampland Distance Conjecture
 location: Virtual
 date: 2021-07-15
 event: String Phenomenology 2021

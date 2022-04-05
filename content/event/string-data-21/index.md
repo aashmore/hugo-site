@@ -11,7 +11,7 @@ abstract: Calabi-Yau manifolds have played a key role in both mathematics and
 slides: ""
 url_pdf: ""
 summary: Plenary talk at string_data_2021
-title: Calabi-Yau Metrics, CFTs and Random Matrices
+title: string_data - Calabi-Yau Metrics, CFTs and Random Matrices
 location: Virtual
 date: 2021-12-16
 event: string_data_2021

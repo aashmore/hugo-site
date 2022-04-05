@@ -3,7 +3,7 @@ abstract: A recurring problem in heterotic compactifications is the plethora of 
 slides: ""
 url_pdf: ""
 summary: Popular science talk on string theory and geometry, University of Oxford
-title: String theory and the shape of nature
+title: Oxford - String theory and the shape of nature
 location: Merton College, University of Oxford
 date: 2018-06-15
 event: Popular science talk on string theory and geometry

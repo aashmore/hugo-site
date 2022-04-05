@@ -3,11 +3,11 @@ abstract: Calabi-Yau metrics and hermitian Yang-Mills connections have played a 
 slides: ""
 url_pdf: ""
 summary: Joint Edinburgh Mathematical Physics Seminar
-title: Machine Learning for Calabi-Yau Compactifications
+title: EMPG - Machine Learning for Calabi-Yau Compactifications
 location: Edinburgh
 date: 2021-11-17
 event: Joint Edinburgh Mathematical Physics Seminar
-event_url: 
+event_url:
 featured: false
 authors: []
 url_video: ""

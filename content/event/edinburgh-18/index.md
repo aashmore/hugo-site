@@ -3,7 +3,7 @@ abstract: In its simplest form, AdS/CFT links the field theory on a stack of D3-
 slides: ""
 url_pdf: ""
 summary: Joint Edinburgh Mathematical Physics Seminar
-title: Marginal deformations from generalised geometry
+title: EMPG - Marginal deformations from generalised geometry
 location: Edinburgh
 date: 2018-02-28
 event: Joint Edinburgh Mathematical Physics Seminar

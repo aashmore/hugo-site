@@ -3,7 +3,7 @@ abstract: A recurring problem in heterotic compactifications is the plethora of 
 slides: ""
 url_pdf: ""
 summary: String Theory Seminar, University of Surrey
-title: Moduli of General N=1 Heterotic Backgrounds
+title: Surrey - Moduli of General N=1 Heterotic Backgrounds
 location: University of Surrey
 date: 2018-10-30
 event: String Theory Seminar

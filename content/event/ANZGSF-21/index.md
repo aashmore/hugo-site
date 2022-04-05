@@ -3,7 +3,7 @@ abstract: Calabi-Yau manifolds have played a key role in both mathematics and ph
 slides: ""
 url_pdf: ""
 summary: ANZ Geometry Fields and Strings Seminar
-title: Calabi-Yau Metrics, CFTs and Random Matrices
+title: ANZGFS - Calabi-Yau Metrics, CFTs and Random Matrices
 location: Virtual
 date: 2021-09-23
 event: ANZ Geometry Fields and Strings Seminar
