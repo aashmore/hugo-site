@@ -1,5 +1,5 @@
 ---
-abstract: Little is known about explicit metrics on Calabi-Yau manifolds, leaving us unable, for example, to compute particle masses or couplings in string models. I will review recent progress on using numerical methods to compute these metrics and the spectrum of the Laplacian on these spaces. I will finish with an example of what one can do with this new "data", namely probing the swampland distance conjecture in complex structure moduli space.
+abstract: We consider the space of supersymmetric AdS5 solutions of type IIB supergravity corresponding to the conformal manifold of the dual 4d N=1 conformal field theories. We describe how the background geometry naturally encodes a generalised holomorphic structure, dual to the superpotential of the field theory. Using this perspective, we address the long-standing problem of finding the gravity dual of the generic N=1 deformations of N=4 super Yang-Mills: though we are not able to give it in a fully explicit form, we provide a proof-of-existence of the supergravity solutions. Using this formalism, we analyse the moduli of the supergravity backgrounds and derive a new result for the Hilbert series of the deformed field theories.
 slides: ""
 url_pdf: ""
 summary: Plenary talk at String Phenomenology 2021
