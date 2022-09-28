@@ -3,9 +3,8 @@ title: Anthony Ashmore
 role: Postdoctoral Researcher in Theoretical Physics
 bio: #
 interests:
-  - Generalised geometry
-  - Computational geometry
-  - Supersymmetric flux vacua
+  - Geometry and supersymmetric flux vacua
+  - Computational geometry and machine learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,12 +38,12 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I’m a postdoctoral researcher in theoretical physics. My work focuses on the geometry of string compactifications. At the moment, I’m a Marie Skłodowska-Curie fellow at the University of Chicago, heading to Sorbonne Université in 2023.
+I’m a postdoctoral researcher in theoretical physics. My work focuses on the geometry of string compactifications. At the moment, I’m a Kadanoff fellow at the University of Chicago. I'm heading to Sorbonne Université in 2023 for the final year of a Marie Skłodowska-Curie global fellowship.
 
 You’ll find more about me at the links above and a few posts on physics, mathematics, Mathematica, and maybe even cooking.
 
 I grew up in the seaside town of Blackpool in the UK and did my undergraduate degree at the University of Oxford. After that, I completed a PhD at Imperial College London before taking up a Junior Research Fellowship at Merton College, University of Oxford. I then moved to the University of Pennsylvania before heading to Chicago.
 
-My work is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 838776.
+# My work is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 838776.
 
 <!--- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}. --->
