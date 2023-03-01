@@ -10,7 +10,7 @@ event: UW Madison Theory Seminar
 event_url:
 featured: false
 authors: []
-url_video: "https://www.youtube.com/watch?v=-i8d6idQ-Ps"
+url_video:
 url_slides: "uploads/uw-madison-23.pdf"
 links: []
 publishDate: 2023-03-01T17:45:24.242Z
