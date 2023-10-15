@@ -3,8 +3,7 @@ abstract: "Understanding Calabi-Yau metrics and hermitian Yang-Mills connections
 slides: ""
 url_pdf: ""
 summary: Rencontres Théoriciennes Seminar
-title: Rencontres Théoriciennes - Machine learning for geometry and string
-compactifications
+title: "Rencontres Théoriciennes - Machine learning for geometry and string compactifications"
 location: Paris, France
 date: 2023-09-21
 event: Rencontres Théoriciennes Seminar
