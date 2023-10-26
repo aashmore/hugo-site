@@ -1,7 +1,7 @@
 ---
-title: Mathematica tips for numerical linear algebra (1)
+title: General Relativity I (Autumn 2018)
 subtitle: ""
-date: 2020-12-02T00:00:00.000Z
+date: 2018-10-01
 summary: ""
 draft: false
 featured: false
@@ -10,7 +10,6 @@ authors:
 lastmod: 2020-12-13T00:00:00.000Z
 tags: []
 categories:
-  - Mathematica
 projects: []
 image:
   caption: ""
