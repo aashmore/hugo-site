@@ -21,10 +21,10 @@ Elementary introduction to general relativity, the basic physical concepts of it
 
 [Lecture notes](lecture_notes.pdf)
 
-[Problem Sheet 1](uploads/lecture_notes.pdf)
+[Problem Sheet 1](problem_sheet_1.pdf)
 
-[Problem Sheet 2](uploads/lecture_notes.pdf)
+[Problem Sheet 2](problem_sheet_2.pdf)
 
-[Problem Sheet 3](uploads/lecture_notes.pdf)
+[Problem Sheet 3](problem_sheet_3.pdf)
 
-[Problem Sheet 4](uploads/lecture_notes.pdf)
+[Problem Sheet 4](problem_sheet_4.pdf)
