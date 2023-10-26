@@ -12,7 +12,7 @@ featured: false
 authors: []
 url_video:
 url_slides: ""
-links: []
+links: ["uploads/uw-madison-23.pdf"]
 publishDate: 2023-03-01T17:45:24.242Z
 tags: []
 projects: []
