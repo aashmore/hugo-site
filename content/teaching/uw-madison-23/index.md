@@ -6,13 +6,13 @@ summary: General Relativity I
 title: General Relativity I
 location: Mathematical Institute, University of Oxford
 date:
-event: 
+event: UW Madison Theory Seminar
 event_url:
 featured: false
 authors: []
 url_video:
 url_slides: ""
-links: ["uploads/uw-madison-23.pdf","uploads/uw-madison-23.pdf"]
+links: []
 publishDate: 2023-03-01T17:45:24.242Z
 tags: []
 projects: []
