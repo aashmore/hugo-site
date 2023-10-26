@@ -5,7 +5,7 @@ url_pdf: ""
 summary: Full semester course on general relativity
 title: General Relativity I (Autumn 2018)
 location: Mathematical Institute, University of Oxford
-date:
+date: 2018-10-01
 event: General Relativity I (Autumn 2018)
 event_url:
 featured: false
