@@ -19,10 +19,12 @@ social:
   #  icon_pack: fab
   #  link: https://github.com/myprofile
 organizations:
-  - name: University of Chicago
-    url: https://kctp.uchicago.edu
+  - name: Skidmore College
+    url: https://www.skidmore.edu/physics/index.php
   - name: Sorbonne Université
     url: https://www.lpthe.jussieu.fr/spip/?lang=en
+  - name: University of Chicago
+    url: https://kctp.uchicago.edu
 <!-- education:
   courses:
     - course: PhD in Theoretical Physics
@@ -38,7 +40,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I’m a postdoctoral researcher in theoretical physics. My work focuses on computational techniques for the geometry of string compactifications and quantum field theories. At the moment, I’m a Marie Skłodowska-Curie global fellow at Sorbonne Université, joint with the University of Chicago.
+I’m a postdoctoral researcher in theoretical physics. My work focuses on computational techniques for the geometry of string compactifications and quantum field theories. At the moment, I’m a Marie Skłodowska-Curie global fellow at Sorbonne Université, joint with the University of Chicago. I will be moving to Skidmore College as an Assistant Professor in Fall 2024.
 
 You’ll find more about me at the links above and a few posts on physics, mathematics and Mathematica.
 
