@@ -1,6 +1,6 @@
 ---
 title: Anthony Ashmore
-role: Postdoctoral Researcher in Theoretical Physics
+role: Marie Skłodowska-Curie Fellow
 bio: #
 interests:
   - Geometry and supersymmetric flux vacua
